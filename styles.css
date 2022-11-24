@@ -1,0 +1,16 @@
+.page-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(120, 106, 138);
+}
+.home-card {
+    background-color: rgb(112, 61, 180);
+    
+}
+.home-card p {
+    color: rgb(112, 61, 180);
+}
+.home-card h5{
+    color: rgb(112, 61, 180);
+}
